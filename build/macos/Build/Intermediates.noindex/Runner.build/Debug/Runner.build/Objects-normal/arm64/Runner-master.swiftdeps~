@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "ff97f7ac24292dfa1f53a55fde27abc8ba102362f909aa002011a24b1b986944"
+build_start_time: [1668859153, 355792999]
+build_end_time: [1668859153, 381596088]
+inputs:
+  "/Users/julia/Itgirlschool/Flutter/projects/week_15/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1668859132, 327590942]
+  "/Users/julia/Itgirlschool/Flutter/projects/week_15/macos/Runner/AppDelegate.swift": !private [1664074652, 0]
+  "/Users/julia/Itgirlschool/Flutter/projects/week_15/macos/Runner/MainFlutterWindow.swift": !private [1664074652, 0]
